@@ -15,6 +15,6 @@ Projetos Bora Codar da Rocketseat
         <td>02</td>
         <td>Product Card</td>
         <td>01/03/24</td>
-        <td><a href="02">projeto</a></td>
+        <td><a href="1_Card_de_Projeto">🔗</a></td>
       </tbody>
     </table>
