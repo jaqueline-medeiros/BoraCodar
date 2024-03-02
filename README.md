@@ -9,6 +9,7 @@ Projetos Bora Codar da Rocketseat
           <th>name</th>
           <th>date</th>
           <th>view</th>
+          <th>site</th>
         </tr>
       </thead>
       <tbody>
@@ -16,5 +17,6 @@ Projetos Bora Codar da Rocketseat
         <td>Product Card</td>
         <td>01/03/24</td>
         <td><a href="1_Card_de_Produto">🔗</a></td>
+        <td><a href="https://bora-codar-vert.vercel.app/">productcard.com<a/></td>
       </tbody>
     </table>
